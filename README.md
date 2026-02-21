@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JohanensKarlin
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
-- 📫 How to reach me Email: karlin.johannes@gmail.com
+- Living in the Cloud between the Tokens 
+- How to reach me Email: karlin.johannes@gmail.com
 
 <!---
 JohanensKarlin/JohanensKarlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
